@@ -1,0 +1,13 @@
+.table {
+    border: solid;
+    width: 60   px;
+    table-layout: fixed;
+
+}
+
+#tableHead {
+    background-color: yellow;
+    border: dotted;  
+    width: 180px;
+
+}
